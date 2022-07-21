@@ -5,6 +5,7 @@ DAY1
 1.Introduction to selenium
 2.Download jar file and drivers
 3.Browser Launch
+4.quit browser
 
 QUESTIONS(Theory)
 -----------------
