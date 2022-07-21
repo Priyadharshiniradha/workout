@@ -1,0 +1,64 @@
+SELENIUM
+--------
+DAY1
+----
+1.Introduction to selenium
+2.Download jar file and drivers
+3.Browser Launch
+
+QUESTIONS(Theory)
+-----------------
+1.What is Automation Testing and benefits?
+2.Why should Selenium be selected as a test tool?
+3.What is Selenium? What are the different Selenium components?
+4.What is the difference between Selenium IDE, Selenium RC, and WebDriver?
+5.What is the latest version of selenium jar file and how you will configure selenium jar file    with eclipse?
+6.Can Google Chrome be supported by Selenium IDE?
+7.What are the different browsers supported by selenium?
+8.What is the Classname,driver name for the below browsers,
+     1.Firefox browser
+     2.Chrome browser
+     3.IE
+     4.safari browser
+     5.Opera browser
+9.What is the WebDriver and WebDriver is class or interface?
+10.What is the method name to launch the url?
+11.Method names to get the title and current URL?
+12.What is the difference between close() and quit()?
+
+QUESTIONS(practical)
+----------------------
+1.Launch the below URL's in firefox browser
+-------------------------------------------
+	1.Alright technologys - http://www.Alrighttechnologys.com/
+	2.Facebook - https://www.facebook.com/
+        3.Amazon - https://www.amazon.in
+	4.Alright technologys(selenium) -  http://www.Alrighttechnologys.com/selenium-course-content.html
+
+2.Launch the below URL's in chrome browser
+------------------------------------------
+	1.Alright technologys - http://www.Alrighttechnologys.com/
+        2.Gmail - http://gmail.com/
+	3.Flipkart - www.flipkart.com/
+	4.Alright technologys(selenium) - http://www.Alrighttechnologys.com/selenium-course-content.html
+
+3.Launch the below URL's in IE browser
+--------------------------------------
+	1.Alright technologys - http://www.Alrighttechnologys.com/
+	2.DemoQa Registration - http://demoqa.com/registration/
+	3.Alright technologys(selenium) - http://www.Alrighttechnologys.com/selenium-course-content.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
